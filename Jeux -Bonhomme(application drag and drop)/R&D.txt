@@ -1,0 +1,22 @@
+mots-clés: 
+protected namespace, Ecouteur d'èvenement,  Dom manipulation, webkit,
+meta:activer  le support mobile  : <meta name="apple-mobile-web-app-capable" content="yes">
+
+http://stackoverflow.com/questions/6645951/what-is-the-difference-between-offsetx-offsety-and-pagex-pagey
+https://developer.mozilla.org/fr/docs/DOM/event.layerX
+http://www.html5rocks.com/en/tutorials/dnd/basics/
+
+//***********************************************************************************************************//
+
+Algo et Procedure de la creation du jeux drag and drop bonhomme:
+
+Fonction Dragndrop ://s'apelle automatique
+    Positonnement des elements en repere: coordonnees X et Y
+    Element de Manipulation d'un element: appeler Wirh Art
+
+    Fonction Evenement: e //deplacer, toucher, cliquer bouger un element
+	UnElementToucher : Recuperation de l'èvenement;
+        Recupeartion : des positions de Element Toucher
+        Changer la valeur Zidex: DeElementToucher
+        
+
