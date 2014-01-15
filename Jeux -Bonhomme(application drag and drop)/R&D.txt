@@ -4,7 +4,6 @@ meta:activer  le support mobile  : <meta name="apple-mobile-web-app-capable" con
 
 http://stackoverflow.com/questions/6645951/what-is-the-difference-between-offsetx-offsety-and-pagex-pagey
 https://developer.mozilla.org/fr/docs/DOM/event.layerX
-http://www.html5rocks.com/en/tutorials/dnd/basics/
 
 //***********************************************************************************************************//
 
@@ -20,3 +19,5 @@ Fonction Dragndrop ://s'apelle automatique
         Changer la valeur Zidex: DeElementToucher
         
 
+  Fonction Evenement: e//placer ElementDeplacer sur le bonhomme
+       ChangerLapostion: Changer le Point  D'Encrage DeElementToucher (X,Y)

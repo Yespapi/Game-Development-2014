@@ -1,0 +1,3 @@
+https://github.com/SignalR/SignalR
+http://www.asp.net/signalr
+http://en.wikipedia.org/wiki/SignalR
